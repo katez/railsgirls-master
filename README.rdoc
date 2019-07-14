@@ -1,0 +1,3 @@
+== README
+
+Project created from a RailsGirls event. Is a basic to-do list app, using Ruby, HTML and CSS.
